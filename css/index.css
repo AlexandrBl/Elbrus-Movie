@@ -346,7 +346,7 @@ html {
    }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
    html {
       font-size: 0.9vw;
    }
